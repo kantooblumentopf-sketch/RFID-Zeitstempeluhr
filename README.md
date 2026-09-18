@@ -85,8 +85,6 @@ Die genauen Bibliotheksversionen sollten beim ersten Kompilieren geprüft werden
 
 WLAN und Admin-UID sind im aktuellen Ausgangssketch als Platzhalter vorhanden.
 
-Für ein öffentliches GitHub-Repository sollte die echte WLAN-Konfiguration nicht eingecheckt werden.
-
 Dafür liegt unter `config/config.example.h` eine Vorlage.
 
 ## Serial Monitor
