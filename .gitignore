@@ -1,0 +1,14 @@
+# Arduino
+*.bin
+*.elf
+*.map
+build/
+.vscode/
+
+# Local configuration
+src/config.h
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
